@@ -1,9 +1,11 @@
-package com.naren.test;
-
 public class StringTranformation {
 
 	public static void main(String[] args) {
 
+		/*
+		 * 
+		 * Replace AA , BB and CC from the String
+		 */
 		String s = "BABABA";
 		System.out.println(solution(s));
 

@@ -1,5 +1,3 @@
-package com.naren.test;
-
 import java.util.Arrays;
 
 public class MinimumDistance {

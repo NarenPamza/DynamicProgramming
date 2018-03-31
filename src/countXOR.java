@@ -1,5 +1,3 @@
-package com.naren.test;
-
 /*
  * Find the Pair whose total is Even
  */
